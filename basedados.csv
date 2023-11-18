@@ -1,0 +1,889 @@
+ID;UF;Região;Mês;Genero;Faixa etária;Nivel de graduação;Área de graduação;Empresa;Perfil;Curso;Tipo C H;Carga horária;Tipo de Curso;Turma;Status
+MT001;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT002;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT003;SP;Sudeste;3;Masculino;50-59;Pós Graduação;Administração;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT004;RN;Nordeste;3;Feminino;18-29;Pós Graduação;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT005;RN;Nordeste;3;Masculino;40-49;Pós Graduação;Administração;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT006;RS;Sul;3;Feminino;30-39;NI;Administração;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT007;SC;Sul;3;Masculino;50-59;Pós Graduação;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT008;PR;Sul;3;Feminino;18-29;Pós Graduação;Administração;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT009;MG;Sudeste;3;Masculino;40-49;NI;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT010;SP;Sudeste;2;Feminino;30-39;Graduação;Administração;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT011;BA;Nordeste;2;Masculino;50-59;Pós Graduação;Administração;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT012;PR;Sul;2;Feminino;18-29;NI;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT013;MG;Sudeste;2;Masculino;40-49;Graduação;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT014;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Administração;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT015;RN;Nordeste;4;Masculino;50-59;NI;Administração;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT016;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT017;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT018;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT019;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT020;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT021;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT022;BA;Nordeste;1;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT023;PR;Sul;2;Masculino;50-59;Graduação;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT024;MG;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT025;SP;Sudeste;2;Masculino;40-49;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT026;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT027;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT028;RS;Sul;3;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT029;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT030;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT031;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT032;SP;Sudeste;3;Feminino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT033;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT034;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT035;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT036;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT037;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT038;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT039;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT040;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT041;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT042;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT043;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT044;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT045;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT046;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT047;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT048;RN;Nordeste;3;Feminino;18-29;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT049;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT050;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT051;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT052;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT053;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT054;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Estrela;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT055;BA;Nordeste;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT056;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT057;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT058;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT059;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT060;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT061;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT062;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT063;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT064;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT065;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT066;BA;Nordeste;1;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT067;PR;Sul;2;Masculino;50-59;Graduação;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT068;MG;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT069;SP;Sudeste;2;Masculino;40-49;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT070;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT071;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT072;RS;Sul;3;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT073;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT074;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT075;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT076;SP;Sudeste;3;Feminino;18-29;Graduação;Ciências Extas;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT077;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT078;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT079;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT080;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT081;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT082;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT083;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT084;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT085;PR;Sul;2;Masculino;40-49;Ens. Médio;Administração;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT086;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT087;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Técnologia ;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT088;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Educação;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT089;PR;Sul;3;Masculino;40-49;Pós Graduação;Administração;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT090;MG;Sudeste;3;Feminino;30-39;NI;Administração;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT091;SP;Sudeste;3;Masculino;50-59;Pós Graduação;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT092;RN;Nordeste;3;Feminino;18-29;Pós Graduação;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT093;RN;Nordeste;3;Masculino;40-49;Pós Graduação;Administração;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT094;RS;Sul;3;Feminino;30-39;NI;Administração;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT095;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT096;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT097;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT098;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT099;BA;Nordeste;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT100;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT101;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT102;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT103;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT104;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT105;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT106;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT107;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT108;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT109;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT110;BA;Nordeste;1;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT111;PR;Sul;2;Masculino;50-59;Graduação;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT112;MG;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT113;SP;Sudeste;2;Masculino;40-49;NI;Administração;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT114;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Administração;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT115;RN;Nordeste;3;Masculino;50-59;Pós Graduação;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT116;RS;Sul;3;Feminino;18-29;NI;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT117;SC;Sul;3;Masculino;40-49;Graduação;Administração;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT118;PR;Sul;3;Feminino;30-39;Pós Graduação;Administração;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT119;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT120;SP;Sudeste;3;Feminino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT121;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT122;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT123;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT124;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT125;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT126;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT127;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT128;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT129;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT130;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT131;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT132;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT133;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT134;MG;Sudeste;3;Feminino;30-39;NI;Administração;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT135;SP;Sudeste;3;Masculino;50-59;Pós Graduação;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT136;RN;Nordeste;3;Feminino;18-29;Pós Graduação;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT137;RN;Nordeste;3;Masculino;40-49;Pós Graduação;Administração;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT138;RS;Sul;3;Feminino;30-39;NI;Administração;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT139;SC;Sul;3;Masculino;50-59;Pós Graduação;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT140;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT141;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT142;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT143;BA;Nordeste;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT144;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT145;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT146;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT147;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT148;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT149;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT150;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT151;PR;Sul;4;Masculino;50-59;Ens. Médio;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT152;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT153;SP;Sudeste;1;Masculino;40-49;Graduação;Técnologia ;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT154;BA;Nordeste;1;Feminino;30-39;Ens. Médio;Educação;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT155;PR;Sul;2;Masculino;50-59;Graduação;Saúde;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT156;MG;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT157;SP;Sudeste;2;Masculino;40-49;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT158;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT159;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT160;RS;Sul;3;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT161;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT162;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT163;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT164;SP;Sudeste;3;Feminino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT165;BA;Nordeste;3;Masculino;40-49;Pós Graduação;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT166;PR;Sul;2;Feminino;30-39;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT167;MG;Sudeste;2;Masculino;50-59;Graduação;Técnologia ;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT168;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Educação;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT169;RN;Nordeste;2;Masculino;40-49;Graduação;Saúde;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT170;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT171;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT172;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT173;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT174;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT175;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT176;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT177;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT178;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT179;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT180;RN;Nordeste;3;Feminino;18-29;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT181;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT182;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT183;SC;Sul;3;Masculino;50-59;Pós Graduação;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT184;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT185;MG;Sudeste;3;Masculino;40-49;NI;Técnologia ;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT186;SP;Sudeste;2;Masculino;30-39;Graduação;Educação;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT187;BA;Nordeste;2;Masculino;50-59;Pós Graduação;Saúde;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT188;PR;Sul;2;Masculino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT189;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT190;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT191;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT192;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT193;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT194;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT195;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT196;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT197;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT198;BA;Nordeste;1;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT199;PR;Sul;2;Masculino;50-59;Graduação;Administração;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT200;MG;Sudeste;2;Masculino;18-29;Ens. Médio;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT201;SP;Sudeste;2;Masculino;40-49;NI;Técnologia ;Estrela;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT202;RN;Nordeste;3;Masculino;30-39;Pós Graduação;Educação;Estrela;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT203;RN;Nordeste;3;Masculino;50-59;Pós Graduação;Saúde;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT204;RS;Sul;3;Masculino;18-29;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT205;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT206;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT207;MG;Sudeste;3;Masculino;50-59;NI;Administração;Cometa;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT208;SP;Sudeste;3;Masculino;18-29;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT209;BA;Nordeste;3;Masculino;40-49;Pós Graduação;Técnologia ;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT210;PR;Sul;2;Feminino;30-39;NI;Educação;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT211;MG;Sudeste;2;Masculino;50-59;Graduação;Saúde;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT212;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Estrela;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT213;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT214;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT215;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT216;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT217;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT218;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT219;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT220;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT221;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT222;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT223;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT224;RN;Nordeste;3;Feminino;18-29;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT225;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT226;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT227;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT228;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT229;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT230;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT231;BA;Nordeste;2;Masculino;50-59;Pós Graduação;Administração;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT232;PR;Sul;2;Feminino;18-29;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT233;MG;Sudeste;2;Masculino;40-49;Graduação;Técnologia ;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT234;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Educação;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT235;RN;Nordeste;4;Masculino;50-59;NI;Saúde;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT236;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT237;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT238;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT239;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT240;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT241;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT242;BA;Nordeste;1;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT243;PR;Sul;2;Masculino;50-59;Graduação;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT244;MG;Sudeste;2;Feminino;18-29;Ens. Médio;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT245;SP;Sudeste;2;Masculino;40-49;NI;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT246;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Técnologia ;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT247;RN;Nordeste;3;Masculino;50-59;Pós Graduação;Educação;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT248;RS;Sul;3;Feminino;18-29;NI;Saúde;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT249;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT250;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT251;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT252;SP;Sudeste;3;Feminino;18-29;Graduação;Administração;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT253;BA;Nordeste;3;Masculino;40-49;Pós Graduação;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT254;PR;Sul;2;Feminino;30-39;NI;Técnologia ;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT255;MG;Sudeste;2;Masculino;50-59;Graduação;Educação;Estrela;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT256;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Saúde;Constelação;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT257;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT258;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT259;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT260;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Cometa;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT261;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT262;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT263;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT264;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT265;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT266;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT267;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT268;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT269;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT270;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT271;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT272;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT273;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT274;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Constelação;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT275;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT276;SC;Sul;2;Feminino;18-29;Graduação;Administração;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT277;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT278;MG;Sudeste;2;Feminino;30-39;Graduação;Técnologia ;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT279;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Educação;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT280;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Saúde;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT281;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT282;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT283;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT284;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT285;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT286;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT287;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT288;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT289;RN;Nordeste;3;Masculino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT290;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT291;RS;Sul;3;Masculino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT292;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT293;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT294;MG;Sudeste;3;Masculino;50-59;NI;Administração;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT295;SP;Sudeste;3;Masculino;18-29;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT296;BA;Nordeste;3;Masculino;40-49;Pós Graduação;Técnologia ;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT297;PR;Sul;2;Feminino;30-39;NI;Educação;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT298;MG;Sudeste;2;Masculino;50-59;Graduação;Saúde;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT299;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT300;RN;Nordeste;2;Masculino;40-49;Graduação;Saúde;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT301;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Saúde;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT302;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT303;SC;Sul;2;Feminino;18-29;Graduação;Técnologia ;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT304;PR;Sul;2;Masculino;40-49;Ens. Médio;Educação;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT305;MG;Sudeste;2;Feminino;30-39;Graduação;Saúde;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT306;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT307;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT308;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT309;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT310;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT311;RN;Nordeste;3;Feminino;18-29;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT312;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT313;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT314;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT315;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT316;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT317;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Estrela;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT318;BA;Nordeste;2;Masculino;50-59;Pós Graduação;NI;Estrela;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT319;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT320;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT321;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT322;RN;Nordeste;4;Masculino;50-59;NI;Administração;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT323;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Humas;Cometa;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT324;RS;Sul;4;Masculino;40-49;Ens. Médio;Técnologia ;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT325;SC;Sul;4;Feminino;30-39;Graduação;Educação;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT326;PR;Sul;4;Masculino;50-59;Ens. Médio;Saúde;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT327;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT328;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT329;BA;Nordeste;1;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT330;PR;Sul;2;Masculino;50-59;Graduação;Saúde;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT331;MG;Sudeste;2;Feminino;18-29;Ens. Médio;Saúde;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT332;SP;Sudeste;2;Masculino;40-49;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT333;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT334;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT335;RS;Sul;3;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT336;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT337;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT338;MG;Sudeste;3;Masculino;50-59;NI;NI;Estrela;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT339;SP;Sudeste;3;Feminino;18-29;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT340;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT341;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT342;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT343;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT344;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT345;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT346;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT347;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT348;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT349;RN;Nordeste;3;Masculino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT350;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT351;RS;Sul;3;Masculino;18-29;NI;Saúde;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT352;SC;Sul;3;Masculino;40-49;Graduação;Saúde;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT353;PR;Sul;3;Feminino;40-49;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT354;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT355;SP;Sudeste;3;Masculino;40-49;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT356;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT357;PR;Sul;2;Feminino;40-49;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT358;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT359;SP;Sudeste;2;Feminino;50-59;Ens. Médio;Ciências Extas;Estrela;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT360;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT361;RN;Nordeste;2;Feminino;50-59;Ens. Médio;Ciências Extas;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT362;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT363;SC;Sul;2;Feminino;50-59;Graduação;Ciências Humas;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT364;PR;Sul;2;Masculino;40-49;Ens. Médio;Saúde;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT365;MG;Sudeste;2;Feminino;30-39;Graduação;Saúde;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT366;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT367;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT368;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT369;MG;Sudeste;3;Feminino;30-39;NI;Saúde;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT370;SP;Sudeste;3;Masculino;50-59;Pós Graduação;Saúde;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT371;RN;Nordeste;3;Feminino;18-29;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT372;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT373;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT374;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT375;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT376;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT377;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT378;BA;Nordeste;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT379;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT380;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT381;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT382;RN;Nordeste;4;Masculino;50-59;NI;NI;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT383;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT384;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT385;AM;Norte;4;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT386;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT387;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Sol;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT388;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT389;BA;Nordeste;1;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT390;PR;Sul;2;Masculino;50-59;Graduação;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT391;MG;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT392;SP;Sudeste;2;Masculino;40-49;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT393;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT394;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT395;RS;Sul;3;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT396;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT397;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT398;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT399;SP;Sudeste;3;Feminino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT400;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT401;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT402;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT403;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT404;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT405;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT406;AM;Norte;2;Masculino;50-59;NI;Ciências Humas;Cometa;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT407;SC;Sul;2;Feminino;40-49;Graduação;Ciências Humas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT408;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT409;RN;Nordeste;3;Masculino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT410;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT411;RS;Sul;3;Masculino;40-49;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT412;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT413;PR;Sul;3;Feminino;40-49;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT414;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT415;SP;Sudeste;3;Masculino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT416;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT417;PR;Sul;2;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT418;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT419;SP;Sudeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT420;AM;Norte;2;Masculino;40-49;Graduação;NI;Lua;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT421;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT422;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT423;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT424;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT425;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT426;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT427;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT428;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT429;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT430;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT431;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT432;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT433;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT434;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT435;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT436;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT437;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT438;AM;Norte;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT439;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT440;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT441;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT442;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT443;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT444;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT445;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT446;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT447;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT448;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT449;AM;Norte;1;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT450;PR;Sul;2;Masculino;50-59;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT451;MG;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT452;SP;Sudeste;2;Masculino;40-49;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT453;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT454;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT455;RS;Sul;3;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT456;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT457;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT458;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT459;SP;Sudeste;3;Feminino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT460;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT461;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT462;AM;Norte;2;Masculino;50-59;Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT463;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT464;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT465;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT466;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT467;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT468;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT469;RN;Nordeste;3;Masculino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT470;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT471;RS;Sul;3;Masculino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT472;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT473;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT474;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT475;SP;Sudeste;3;Masculino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT476;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT477;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Lua;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT478;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT479;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT480;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT481;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT482;AM;Norte;2;Masculino;50-59;NI;Ciências Humas;Lua;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT483;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT484;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT485;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT486;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT487;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT488;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT489;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT490;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT491;RN;Nordeste;3;Feminino;18-29;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT492;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT493;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT494;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT495;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT496;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT497;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT498;BA;Nordeste;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT499;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT500;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT501;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT502;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT503;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT504;AM;Norte;4;Masculino;40-49;Ens. Médio;NI;Sol;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT505;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT506;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT507;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT508;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT509;BA;Nordeste;1;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT510;PR;Sul;2;Masculino;50-59;Graduação;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT511;MG;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT512;SP;Sudeste;2;Masculino;40-49;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT513;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT514;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT515;RS;Sul;3;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT516;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT517;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT518;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT519;SP;Sudeste;3;Feminino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT520;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT521;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Lua;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT522;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT523;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT524;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT525;AM;Norte;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT526;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT527;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT528;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT529;SP;Sudeste;2;Masculino;40-49;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT530;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT531;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT532;RS;Sul;3;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT533;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT534;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT535;MG;Sudeste;3;Masculino;50-59;NI;NI;Estrela;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT536;SP;Sudeste;3;Feminino;18-29;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT537;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT538;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT539;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT540;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT541;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT542;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT543;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT544;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT545;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT546;RN;Nordeste;3;Masculino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT547;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT548;RS;Sul;3;Masculino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT549;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT550;PR;Sul;3;Feminino;40-49;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT551;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT552;SP;Sudeste;3;Masculino;40-49;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT553;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT554;PR;Sul;2;Feminino;40-49;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT555;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT556;SP;Sudeste;2;Feminino;50-59;Ens. Médio;Ciências Extas;Estrela;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT557;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT558;RN;Nordeste;2;Feminino;50-59;Ens. Médio;Ciências Extas;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT559;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT560;SC;Sul;2;Feminino;50-59;Graduação;Ciências Humas;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT561;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT562;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT563;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT564;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT565;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT566;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT567;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT568;RN;Nordeste;3;Feminino;18-29;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT569;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT570;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT571;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT572;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT573;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT574;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT575;BA;Nordeste;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT576;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT577;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT578;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT579;RN;Nordeste;4;Masculino;50-59;NI;NI;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT580;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT581;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT582;AM;Norte;4;Feminino;30-39;Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT583;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT584;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Sol;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT585;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT586;BA;Nordeste;1;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT587;PR;Sul;2;Masculino;50-59;Graduação;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT588;MG;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT589;SP;Sudeste;2;Masculino;40-49;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT590;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT591;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT592;RS;Sul;3;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT593;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT594;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT595;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT596;SP;Sudeste;3;Feminino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT597;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT598;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT599;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT600;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT601;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT602;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT603;AM;Norte;2;Masculino;50-59;NI;Ciências Humas;Cometa;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT604;SC;Sul;2;Feminino;40-49;Graduação;Ciências Humas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT605;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT606;RN;Nordeste;3;Masculino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT607;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT608;RS;Sul;3;Masculino;40-49;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT609;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT610;PR;Sul;3;Feminino;40-49;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT611;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT612;SP;Sudeste;3;Masculino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT613;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT614;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT615;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT616;SP;Sudeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT617;AM;Norte;2;Masculino;40-49;Graduação;NI;Lua;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT618;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT619;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT620;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT621;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT622;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT623;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT624;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT625;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT626;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT627;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT628;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT629;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT630;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT631;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT632;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT633;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT634;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Estrela;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT635;AM;Norte;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT636;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT637;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT638;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT639;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT640;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT641;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT642;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT643;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT644;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT645;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT646;AM;Norte;1;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT647;PR;Sul;2;Masculino;50-59;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT648;MG;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT649;SP;Sudeste;2;Masculino;40-49;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT650;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT651;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT652;RS;Sul;3;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT653;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT654;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT655;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT656;SP;Sudeste;3;Feminino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT657;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT658;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT659;AM;Norte;2;Masculino;50-59;Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT660;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT661;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT662;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT663;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT664;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT665;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT666;RN;Nordeste;3;Masculino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT667;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT668;RS;Sul;3;Masculino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT669;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT670;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT671;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT672;SP;Sudeste;3;Masculino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT673;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT674;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Lua;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT675;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT676;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT677;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT678;RN;Nordeste;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT679;AM;Norte;2;Masculino;50-59;NI;Ciências Humas;Lua;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT680;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT681;PR;Sul;2;Masculino;40-49;Ens. Médio;Administração;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT682;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT683;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Técnologia ;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT684;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Educação;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT685;PR;Sul;3;Masculino;40-49;Pós Graduação;Saúde;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT686;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT687;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT688;RN;Nordeste;3;Feminino;18-29;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT689;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT690;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT691;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT692;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT693;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT694;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT695;BA;Nordeste;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT696;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT697;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT698;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT699;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT700;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT701;AM;Norte;4;Masculino;40-49;Ens. Médio;NI;Sol;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT702;SC;Sul;4;Feminino;30-39;Graduação;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT703;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT704;MG;Sudeste;1;Feminino;18-29;NI;Técnologia ;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT705;SP;Sudeste;1;Masculino;40-49;Graduação;Educação;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT706;BA;Nordeste;1;Feminino;30-39;Ens. Médio;Saúde;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/38;Aprovado
+MT707;PR;Sul;2;Masculino;50-59;Graduação;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/39;Aprovado
+MT708;MG;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/40;Aprovado
+MT709;SP;Sudeste;2;Masculino;40-49;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/41;Não Iniciado
+MT710;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/42;Aprovado
+MT711;RN;Nordeste;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/43;Reprovado
+MT712;RS;Sul;3;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/44;Não Iniciado
+MT713;SC;Sul;3;Masculino;40-49;Graduação;Ciências Humas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/45;Aprovado
+MT714;PR;Sul;3;Feminino;30-39;Pós Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/46;Aprovado
+MT715;MG;Sudeste;3;Masculino;50-59;NI;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/47;Aprovado
+MT716;SP;Sudeste;3;Feminino;18-29;Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/48;Não Iniciado
+MT717;BA;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/49;Aprovado
+MT718;PR;Sul;2;Feminino;30-39;NI;Ciências Extas;Lua;Empresário;Conhecimento Gerais;EaD;2;Curta duração;T1/50;Reprovado
+MT719;MG;Sudeste;2;Masculino;50-59;Graduação;NI;Sol;Público;Conhecimento Gerais;EaD;2;Curta duração;T1/51;Não Iniciado
+MT720;SP;Sudeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/52;Aprovado
+MT721;RN;Nordeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/53;Aprovado
+MT722;AM;Norte;2;Feminino;30-39;Ens. Médio;Ciências Extas;Sol;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/54;Aprovado
+MT723;RS;Sul;2;Masculino;50-59;NI;Administração;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT724;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;Estágiario;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT725;PR;Sul;2;Masculino;40-49;Ens. Médio;Técnologia ;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT726;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT727;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT728;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT729;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT730;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT731;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT732;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT733;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT734;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT735;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT736;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT737;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT738;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT739;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT740;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT741;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Estrela;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT742;AM;Norte;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT743;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT744;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT745;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT746;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT747;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT748;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT749;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT750;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT751;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT752;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT753;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT754;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT755;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT756;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT757;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT758;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT759;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT760;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT761;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT762;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT763;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT764;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT765;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT766;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT767;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT768;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Estrela;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT769;AM;Norte;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT770;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT771;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT772;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT773;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT774;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT775;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT776;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT777;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT778;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT779;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT780;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT781;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT782;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT783;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT784;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT785;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT786;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT787;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT788;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT789;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT790;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT791;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT792;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT793;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT794;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT795;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Estrela;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT796;AM;Norte;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT797;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT798;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT799;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT800;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT801;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT802;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT803;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT804;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT805;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT806;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT807;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT808;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT809;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT810;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT811;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT812;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT813;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT814;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT815;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT816;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT817;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT818;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT819;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT820;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT821;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT822;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Estrela;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT823;AM;Norte;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT824;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT825;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT826;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT827;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT828;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT829;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT830;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT831;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT832;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT833;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT834;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT835;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT836;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT837;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT838;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT839;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT840;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT841;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT842;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT843;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT844;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT845;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT846;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT847;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT848;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT849;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Estrela;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT850;AM;Norte;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT851;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT852;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT853;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT854;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT855;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT856;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT857;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT858;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT859;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT860;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT861;RS;Sul;2;Masculino;50-59;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/55;Aprovado
+MT862;SC;Sul;2;Feminino;18-29;Graduação;Ciências Humas;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/56;Aprovado
+MT863;PR;Sul;2;Masculino;40-49;Ens. Médio;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/57;Não Iniciado
+MT864;MG;Sudeste;2;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/58;Aprovado
+MT865;SP;Sudeste;2;Masculino;50-59;Ens. Médio;Ciências Extas;Constelação;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/59;Reprovado
+MT866;BA;Nordeste;2;Feminino;18-29;Ens. Médio;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/60;Não Iniciado
+MT867;PR;Sul;3;Masculino;40-49;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/17;Aprovado
+MT868;MG;Sudeste;3;Feminino;30-39;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/18;Não Iniciado
+MT869;SP;Sudeste;3;Masculino;50-59;Pós Graduação;NI;Cometa;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/19;Aprovado
+MT870;RN;Nordeste;3;Feminino;30-39;Pós Graduação;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/20;Reprovado
+MT871;RN;Nordeste;3;Masculino;40-49;Pós Graduação;NI;Sol;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/21;Não Iniciado
+MT872;RS;Sul;3;Feminino;30-39;NI;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/22;Aprovado
+MT873;SC;Sul;3;Masculino;50-59;Pós Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/23;Aprovado
+MT874;PR;Sul;3;Feminino;18-29;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/24;Aprovado
+MT875;MG;Sudeste;3;Masculino;40-49;NI;Ciências Humas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/25;Não Iniciado
+MT876;SP;Sudeste;2;Feminino;30-39;Graduação;Ciências Humas;Estrela;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/26;Aprovado
+MT877;AM;Norte;2;Masculino;50-59;Pós Graduação;NI;Sol;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/27;Reprovado
+MT878;PR;Sul;2;Feminino;18-29;NI;Ciências Extas;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/28;Não Iniciado
+MT879;MG;Sudeste;2;Masculino;40-49;Graduação;NI;Lua;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/29;Aprovado
+MT880;SP;Sudeste;4;Feminino;30-39;Pós Graduação;Ciências Extas;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/30;Aprovado
+MT881;RN;Nordeste;4;Masculino;50-59;NI;NI;Lua;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/31;Aprovado
+MT882;RN;Nordeste;4;Feminino;18-29;Graduação;Ciências Extas;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/32;Aprovado
+MT883;RS;Sul;4;Masculino;40-49;Ens. Médio;NI;Sol;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/33;Aprovado
+MT884;SC;Sul;4;Feminino;30-39;Graduação;Ciências Extas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/34;Não Iniciado
+MT885;PR;Sul;4;Masculino;50-59;Ens. Médio;Ciências Humas;Estrela;Técnico ;Conhecimento Gerais;EaD;2;Curta duração;T1/35;Aprovado
+MT886;MG;Sudeste;1;Feminino;18-29;NI;Ciências Humas;Constelação;NI;Conhecimento Gerais;EaD;2;Curta duração;T1/36;Reprovado
+MT887;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
+MT888;SP;Sudeste;1;Masculino;40-49;Graduação;NI;Lua;Gestor;Conhecimento Gerais;EaD;2;Curta duração;T1/37;Não Iniciado
