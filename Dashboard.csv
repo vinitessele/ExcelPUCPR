@@ -1,0 +1,60 @@
+CodFuncionario;NomeFuncionario;Sexo;DataNascimento;Escolaridade;Cargo;Departamento;DataAdmissao; Salário ;Idade
+1;MIZAEL JOAQUIM DOS SANTOS;Masculino;11/09/2000;Superior Completo;Assistente;Recursos humanos;; R$ 1.500,00 ;21
+2;ANTONIO LOURENCO GONCALVES;Masculino;09/02/1966;Mestre;Operador;Produção;; R$ 2.500,00 ;55
+3;ALCIONE FRANCISCO ROCHA;Masculino;15/10/1953;Superior Incompleto;Operador;Produção;; R$ 1.200,00 ;68
+4;BRUNO JOSE VELOMIM DA SILVA;Masculino;11/10/1974;Doutor ;Gerente;Marketing;; R$ 3.000,00 ;47
+5;CHRISTIAN LOPES DA SILVA;Masculino;09/02/1947;Ensino Médio;Facilitador;Produção;; R$ 1.100,00 ;74
+6;DOUGLAS FLORIDO DO ROSARIO;Masculino;05/01/1995;Ensino Fundamental;Assistente;Produção;; R$ 1.100,00 ;26
+7;DOUGLAS SOUSA DA SILVA;Masculino;23/09/1993;Superior Incompleto;Assistente;Produção;; R$ 1.150,00 ;28
+8;GIOVANE COLOSSI;Masculino;25/04/1970;Ensino Fundamental;Assistente;Marketing;; R$ 1.300,00 ;51
+9;LUIZ GUSTAVO VIDAL PULCIDES;Masculino;03/05/1988;Superior Completo;Facilitador;Recursos humanos;; R$ 2.200,00 ;33
+10;PEDRO BETTONI NETO;Masculino;11/07/1991;Pós Graduado;Gerente;TI;; R$ 2.600,00 ;30
+11;FERNANDO SANTOS DA COSTA;Masculino;11/10/2001;Superior Completo;Analista;Recursos humanos;; R$ 2.500,00 ;20
+12;ELIAS FERMINO DE PAULA JUNIOR;Masculino;13/12/1990;Mestre;Assistente;Recursos humanos;; R$ 3.000,00 ;31
+13;IZAEL TADEU DE OLIVEIRA;Masculino;09/07/1994;Superior Incompleto;Analista;Recursos humanos;; R$ 3.500,00 ;27
+14;CLEBER DA SILVA;Masculino;12/05/2000;Doutor ;Diretor;Produção;; R$ 1.500,00 ;21
+15;ADILSON MIGUEL DE CASTRO;Masculino;09/02/1966;Ensino Médio;Assistente;Produção;; R$ 2.500,00 ;55
+16;UILIANS DA SILVA PEREIRA;Masculino;15/10/1953;Ensino Fundamental;Operador;Marketing;; R$ 1.200,00 ;68
+17;JOAO ANTONIO MONTEIRO;Masculino;11/10/1974;Superior Incompleto;Operador;Produção;; R$ 3.000,00 ;47
+18;SERGIO PEREIRA DOS SANTOS;Masculino;09/02/1947;Ensino Fundamental;Gerente;Produção;; R$ 1.100,00 ;74
+19;LIGIANE NASCIMENTO PINTO;Feminino;05/01/1995;Superior Completo;Facilitador;Produção;; R$ 1.100,00 ;26
+20;PAULO ROBERTO ALVES DA CUNHA;Masculino;23/09/1993;Pós Graduado;Diretor;Financeiro;; R$ 1.150,00 ;28
+21;ANDERSON GONCALVES FARLANDES;Masculino;25/04/1970;Superior Completo;Diretor;Administrativo;; R$ 1.300,00 ;51
+22;RAFAEL JOSE GOES;Masculino;03/05/1988;Mestre;Diretor;TI;; R$ 2.200,00 ;33
+23;FRANCESCO SOUSA DOS SANTOS;Masculino;11/07/1991;Superior Incompleto;Analista;TI;; R$ 2.600,00 ;30
+24;PAULA CLAUDINA DA SILVA RIBAS;Feminino;11/10/2001;Doutor ;Analista;Financeiro;; R$ 2.500,00 ;20
+25;MARIO SERGIO DE PAULA LOPES;Masculino;13/12/1990;Ensino Médio;Analista;Administrativo;; R$ 3.000,00 ;31
+26;MARCELO AUGUSTO TRINDADE;Masculino;09/07/1994;Ensino Fundamental;Operador;Produção;; R$ 3.500,00 ;27
+27;JACKSON LUIS ALVES LEMOS;Masculino;12/05/2000;Superior Incompleto;Operador;Produção;; R$ 1.500,00 ;21
+28;MAURO ALVES ESTEVAO;Masculino;09/02/1966;Ensino Fundamental;Operador;Produção;; R$ 2.500,00 ;55
+29;PETERSON LOPES RIBEIRO;Masculino;10/12/1947;Superior Completo;Gerente;Administrativo;; R$ 1.200,00 ;74
+30;MARCIO SOARES DA SILVA;Masculino;10/02/1970;Pós Graduado;Gerente;Financeiro;; R$ 3.000,00 ;51
+31;FRANCIELE BARROS MODESTO;Feminino;25/12/1995;Superior Completo;Operador;Produção;; R$ 1.100,00 ;26
+32;ADRIANA FERREIRA DE OLIVEIRA;Feminino;20/04/1960;Mestre;Analista;TI;; R$ 1.100,00 ;61
+33;LUCIANE VANZETTO;Feminino;23/01/1954;Superior Incompleto;Analista;Financeiro;; R$ 1.150,00 ;67
+34;AMANDA CRISTINA CORDEIRO CARDOZO;Feminino;02/02/1984;Doutor ;Analista;Administrativo;; R$ 1.300,00 ;37
+35;ANGELA CRISTINA MOREIRA DA ROCHA;Feminino;29/12/1942;Ensino Médio;Operador;Produção;; R$ 2.200,00 ;79
+36;CLAUDIOMIR RODRIGUES REDEDE;Masculino;03/03/1999;Ensino Fundamental;Operador;Produção;; R$ 2.600,00 ;22
+37;JEFERSON DAMACENO CORREIA;Masculino;17/01/1946;Superior Incompleto;Operador;Produção;; R$ 2.500,00 ;75
+38;SUELLEN NOGUEIRA;Feminino;03/12/1994;Ensino Fundamental;Operador;Produção;; R$ 3.000,00 ;27
+39;RODRIGO DE FRANCA BRUSTRING;Masculino;15/10/1953;Superior Completo;Analista;TI;; R$ 3.500,00 ;68
+40;RODRIGO DA SILVA CORDEIRO;Masculino;11/10/1974;Pós Graduado;Analista;Financeiro;; R$ 1.500,00 ;47
+41;VINICIUS CORTEZ CASSIS;Masculino;09/02/1947;Superior Completo;Analista;Administrativo;; R$ 2.500,00 ;74
+42;EVERSON MAURICIO RODRIGUES;Masculino;05/01/1995;Mestre;Analista;TI;; R$ 1.200,00 ;26
+43;CHRIS HELLEN ASSUNCAO JACINTO;Feminino;23/09/1993;Superior Incompleto;Analista;Financeiro;; R$ 3.000,00 ;28
+44;ANDREIA CLAUDIA MEGIOLARO;Feminino;25/04/1970;Doutor ;Assistente;Marketing;; R$ 1.100,00 ;51
+45;VALDEMIR SANTOS DE ABREU MENDES;Masculino;03/05/1988;Ensino Médio;Facilitador;Recursos humanos;; R$ 1.100,00 ;33
+46;THAIS PEREIRA LOPES;Feminino;11/07/1991;Ensino Fundamental;Operador;Produção;; R$ 1.150,00 ;30
+47;CRISTIANO PEDRONI SILVA;Masculino;11/10/2001;Superior Incompleto;Operador;Produção;; R$ 1.300,00 ;20
+48;JEAN LUCAS WOLFF RODRIGUES DA LUZ;Masculino;13/12/1990;Ensino Fundamental;Operador;Produção;; R$ 2.200,00 ;31
+49;MARIA DE FATIMA;Feminino;09/07/1994;Superior Completo;Operador;Produção;; R$ 2.600,00 ;27
+50;ELVIRA DA SILVA;Feminino;12/05/2000;Pós Graduado;Analista;TI;; R$ 2.500,00 ;21
+51;Manuela Nina Campos;Feminino;09/02/1966;Superior Completo;Analista;Financeiro;; R$ 3.000,00 ;55
+52;Sandra Patrícia;Feminino;25/07/1960;Pós Graduado;Analista;Administrativo;; R$ 3.500,00 ;61
+53;Luiz Tiago Yago Campos;Masculino;09/04/1983;Superior Completo;Assistente;Marketing;; R$ 2.200,00 ;38
+54;Letícia Nair Aragão;Feminino;16/03/1970;Mestre;Facilitador;Recursos humanos;; R$ 2.600,00 ;51
+55;Emily Caroline;Feminino;28/12/1957;Superior Incompleto;Operador;Produção;; R$ 2.500,00 ;64
+56;Tiago Edson Aragão;Masculino;25/11/1959;Doutor ;Operador;Produção;; R$ 3.000,00 ;62
+57;Severino Diogo Erick Drumond;Masculino;07/11/1992;Ensino Médio;Operador;Produção;; R$ 3.500,00 ;29
+58;Marina Cecília;Feminino;29/06/1986;Ensino Fundamental;Assistente;Marketing;; R$ 1.200,00 ;35
+59;Gabriel Ryan Cauã Drumond;Masculino;21/07/1983;Ensino Fundamental;Facilitador;Recursos humanos;; R$ 1.200,00 ;38
